@@ -1,0 +1,6 @@
+#spilt number into equation
+
+n=input('give me a number ')
+po=[int(x+'0') for x in str(n)]
+
+y=print(po) #how do i get the equation part
